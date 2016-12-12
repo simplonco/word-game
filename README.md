@@ -1,10 +1,10 @@
 # Word Game
 
-![Tirage au sort](https://raw.githubusercontent.com/simplonco/api-lastfm/master/tirage.png)
+![Tirage au sort](https://raw.githubusercontent.com/simplonco/word-game/master/tirage.png)
 
 Tout le monde prends plusieurs petits papiers et inscrits sur chaque papier un ou deux mot dans le désordre.
 
-![Tirage au sort](https://raw.githubusercontent.com/simplonco/api-lastfm/master/sauce.png)
+![Tirage au sort](https://raw.githubusercontent.com/simplonco/word-game/master/sauce.png)
 
 >Exemple :
 sauec = sauce
